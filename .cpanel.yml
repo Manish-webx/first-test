@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/laravelbp/public_html/
+    - export DEPLOYPATH=/home/jassai/public_html/first-test/
     - /bin/cp * $DEPLOYPATH
   
